@@ -1,4 +1,4 @@
-# spacetock-google-cloud-functions
+# spacetock-fb-cloud-functions
 
 API REST using Google Cloud Functions (Serverless)
 
